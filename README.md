@@ -2,6 +2,8 @@
 Plugin'et er et ufærdigt Battlepass Plugin, som virker fuldt funktionelt front-end, og næsten back-end. Jeg har valgt at smide det op nu da jeg ikke laver på det så meget mere, men jeg skal nok færdiggøre det på et eller andet tidspunkt. 
 Plugin'et var oprindeligt lavet til min Minecraft Server som desværre ikke blev til noget.
 
+Koden kan være lidt mæh nogle steder, men jeg har ikke nået at optimere det helt endnu samt lave et ordenligt konfigurations system.
+
 I må hjerteligt gerne arbejde videre på plugin'et, men jeg SKAL altid have credit inde i plugin'et. Om det er gennem en kommando, en gui, eller bare i plugin.yml filen er fuldstændig ligegyldigt.
 
 ## Authors
