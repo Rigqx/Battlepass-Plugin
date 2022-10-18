@@ -1,0 +1,10 @@
+name: Battlepass
+version: '${project.version}'
+main: dk.rigqx.battlepass.Battlepass
+load: STARTUP
+authors: [ Rigqx ]
+description: A battlepass plugin
+website: Rigqx.dk
+
+commands:
+  battlepass:
